@@ -1,9 +1,7 @@
 # Currency Calculator
 A currency calculator app created using Python. Web scrapes 45 different currency data from a live website. 
 ## Tools
-- Python
-- BeautifulSoup
-- Tkinter
+- Python (BeautifulSoup, Tkinter)
 - Git
 - Visual Studio Code
 ## Contributors
